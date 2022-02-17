@@ -1,0 +1,2 @@
+# gitcolaborativo
+Ejemplo de repositorio
